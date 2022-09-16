@@ -1,0 +1,34 @@
+body{
+  background-image: url('imgg/bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+header ul{
+  list-style: none;
+}
+header li{
+  display: inline;
+  border: solid 2px grey;
+  margin: 5px 10px;
+  padding: 10px 20px;
+  text-align:left;
+}
+header a:hover{
+  color:brown;
+}
+header a{
+  text-decoration: none;
+  color: black;
+}
+h1{
+  text-align: center;
+  font-style:normal;
+  font-weight: bold;
+}
+li{
+  display: inline;
+}
+ol{
+  list-style: none;
+}
